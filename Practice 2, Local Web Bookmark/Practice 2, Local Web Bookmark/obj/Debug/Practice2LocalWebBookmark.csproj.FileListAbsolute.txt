@@ -1,0 +1,31 @@
+C:\Users\Uchenna\Documents\Visual Studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\bin\Debug\Practice2LocalWebBookmark.exe.config
+C:\Users\Uchenna\Documents\Visual Studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\bin\Debug\Practice2LocalWebBookmark.exe
+C:\Users\Uchenna\Documents\Visual Studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\bin\Debug\Practice2LocalWebBookmark.pdb
+C:\Users\Uchenna\Documents\Visual Studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.csprojResolveAssemblyReference.cache
+C:\Users\Uchenna\Documents\Visual Studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice_2__Local_Web_Bookmark.BookmarkForm.resources
+C:\Users\Uchenna\Documents\Visual Studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice_2__Local_Web_Bookmark.Properties.Resources.resources
+C:\Users\Uchenna\Documents\Visual Studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.csproj.GenerateResource.Cache
+C:\Users\Uchenna\Documents\Visual Studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.exe
+C:\Users\Uchenna\Documents\Visual Studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.pdb
+C:\Users\Uchenna\documents\visual studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice_2__Local_Web_Bookmark.Info.resources
+F:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\bin\Debug\Practice2LocalWebBookmark.exe.config
+F:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.exe
+F:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.pdb
+D:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\bin\Debug\Practice2LocalWebBookmark.exe.config
+D:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.exe
+D:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.pdb
+E:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\bin\Debug\Practice2LocalWebBookmark.exe.config
+E:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.exe
+E:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.pdb
+E:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\bin\Debug\Practice2LocalWebBookmark.exe
+E:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\bin\Debug\Practice2LocalWebBookmark.pdb
+E:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.csprojResolveAssemblyReference.cache
+E:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice_2__Local_Web_Bookmark.BookmarkForm.resources
+E:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice_2__Local_Web_Bookmark.Info.resources
+E:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice_2__Local_Web_Bookmark.Properties.Resources.resources
+E:\Code\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.csproj.GenerateResource.Cache
+C:\Users\Uchenna\documents\visual studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\bin\Debug\Practice2LocalWebBookmark.exe.manifest
+C:\Users\Uchenna\documents\visual studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\bin\Debug\Practice2LocalWebBookmark.application
+C:\Users\Uchenna\documents\visual studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.TrustInfo.xml
+C:\Users\Uchenna\documents\visual studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.exe.manifest
+C:\Users\Uchenna\documents\visual studio 2015\Projects\Practice 2, Local Web Bookmark\Practice 2, Local Web Bookmark\obj\Debug\Practice2LocalWebBookmark.application

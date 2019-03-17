@@ -1,0 +1,10 @@
+
+https://stackoverflow.com/questions/35021125/how-to-write-to-a-file-using-streamwriter
+
+google "c# list listbox items"
+
+https://stackoverflow.com/questions/20595279/c-sharp-save-all-items-in-a-listbox-to-text-file
+
+https://stackoverflow.com/questions/44365257/write-list-of-objects-to-text-file
+
+https://www.google.com/search?ei=GTC5Wt6yH4umjwOVvJ-gBA&q=c%23+write+list+of+objects+to+text+file&oq=c%23+write+list+to+file&gs_l=psy-ab.1.0.0i71k1l8.0.0.0.5997.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.YmoveI_RQ08

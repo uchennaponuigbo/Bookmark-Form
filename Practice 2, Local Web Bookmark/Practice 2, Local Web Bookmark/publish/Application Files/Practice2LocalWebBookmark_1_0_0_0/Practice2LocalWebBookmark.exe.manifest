@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Practice2LocalWebBookmark.exe" version="1.0.0.0" publicKeyToken="a0d4441e167c5bd3" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="book-bookmark-icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Practice2LocalWebBookmark" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Practice2LocalWebBookmark.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Practice2LocalWebBookmark.exe" size="9757168">
+      <assemblyIdentity name="Practice2LocalWebBookmark" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7GnaFwGiGrteOcwO4u3vbGcW5HGBnO25cPzHVA5a96g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="book-bookmark-icon.ico" size="4325438">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Mi9lQ1J0vUNu65lPEcfvY8raufAYGMmNK2XETCPhg0o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Practice2LocalWebBookmark.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="question mark.ico" size="208862">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ndLo8w68rFn+XYTrcipiBcFD8Zuh0za9in2wwMPEeo8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on and is
+           is designed to work with. Uncomment the appropriate elements and Windows will 
+           automatically selected the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=LAPTOP-A9PDTNM8\Uchenna" issuerKeyHash="c9e1a5128e8b2f9862617dede93531ae76955acb" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>xYbEIFkyOEf+xgFwMJKraxAqoTeCDRwUJ/z6eXN0WCQ=</DigestValue></Reference></SignedInfo><SignatureValue>KwlZSZMfVcvEEqqWZo3cyRFTbvD29UIsxze7MpvktWDVpSvyg8cAG/OxaSuaJt9iRLIxXoZIOFJbyp8C/CYCu+COU5Z279RrzU3K8KK2RgGKcxFIGf0V1f04Z7g9EuIy6a/iwLvpxijQ+YHWuLvA8Pm0L4Yih/CMhjp3CI9Z47c=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>nLaDLHiR+0U1IWTYpxaqzA5EXSlvTUBBHjJqQCgxW9Phn2b95hYuFjvOiviSyTO/3VQYvbwxrHAZQGCnzpM0b+MI8LYqEyOmN1/voBz10LClMJNf2AwrwDdXG9IPyJFnDlCbll+wXw3rtlE7tM8gq6R7IQufSCaL+AY4NucpkbU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2458747379fafc27141c0d8237a12a106bab92307001c6fe4738325920c486c5" Description="" Url=""><as:assemblyIdentity name="Practice2LocalWebBookmark.exe" version="1.0.0.0" publicKeyToken="a0d4441e167c5bd3" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-A9PDTNM8\Uchenna</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ddkGZ3uq6c7XFDrhly2drr9L5Z18n74iQwwM53tu9Rs=</DigestValue></Reference></SignedInfo><SignatureValue>NONwigl8uKAmVnrvTAGv4KoBgsfroClqxqkt9nJubiDEl3I+qdoyt4gSBOT3ZPSUSBHAV/ktwz9PTeIzbkyJgCNgQuTCezPxroEVUwnHxkStJUi482wY8EJZ41G6MZJuUKPkvBDv8rLgkN3pxSO8sa+pVah76NCrH3EqXOSu9F0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>nLaDLHiR+0U1IWTYpxaqzA5EXSlvTUBBHjJqQCgxW9Phn2b95hYuFjvOiviSyTO/3VQYvbwxrHAZQGCnzpM0b+MI8LYqEyOmN1/voBz10LClMJNf2AwrwDdXG9IPyJFnDlCbll+wXw3rtlE7tM8gq6R7IQufSCaL+AY4NucpkbU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB9TCCAV6gAwIBAgIQWDZcwCGYW4BFl+8cCP347DANBgkqhkiG9w0BAQsFADA5MTcwNQYDVQQDHi4ATABBAFAAVABPAFAALQBBADkAUABEAFQATgBNADgAXABVAGMAaABlAG4AbgBhMB4XDTE4MDQwMzIzMDYxNFoXDTE5MDQwNDA1MDYxNFowOTE3MDUGA1UEAx4uAEwAQQBQAFQATwBQAC0AQQA5AFAARABUAE4ATQA4AFwAVQBjAGgAZQBuAG4AYTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAnLaDLHiR+0U1IWTYpxaqzA5EXSlvTUBBHjJqQCgxW9Phn2b95hYuFjvOiviSyTO/3VQYvbwxrHAZQGCnzpM0b+MI8LYqEyOmN1/voBz10LClMJNf2AwrwDdXG9IPyJFnDlCbll+wXw3rtlE7tM8gq6R7IQufSCaL+AY4NucpkbUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQAnMI5OYVLY4G45GZMtE6hTkV0E1FY3q+OqtCLK8IznwLCdrXLVKeIp9a/NmxJTIwoQp3ErYsEdUC77gAOcKJkD5t7ZAkZpngZ1keYlghVR6C3rvXZCZ2eaSK4X0YaEDVqWYepMzvTHrzdVUE5u7fd7dXeUR6nqQ1MMKj7AqTrPRA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
